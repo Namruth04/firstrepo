@@ -1,2 +1,2 @@
 # firstrepo
-Just a basic repository to pla around with
+Just a basic repository to play around with
