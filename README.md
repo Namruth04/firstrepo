@@ -1,2 +1,2 @@
 # firstrepo
-this is my first assignment
+Just a basic repository to pla around with
